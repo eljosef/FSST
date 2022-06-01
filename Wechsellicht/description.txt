@@ -1,0 +1,7 @@
+Application which switches between two states
+for the 4 onboard GPIO LED's
+1010
+0101
+
+The change rate can be set with a widget
+Starting is done by a button press

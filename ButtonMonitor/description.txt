@@ -1,0 +1,2 @@
+Opens a widget which shows what buttons (GPIO Ports)
+are high or low

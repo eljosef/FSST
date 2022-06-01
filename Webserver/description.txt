@@ -1,0 +1,6 @@
+Creates an cmd Server, which listens to the 
+Port 5555
+
+with: nc localhost 5555
+you can write on a seperate bash and the 
+programm will display the message you sent

@@ -1,0 +1,6 @@
+Application which tests if a searched 
+Port of a Server is currently open or not.
+
+Inputs: hostname, Port Number
+
+Output: Open or Closed

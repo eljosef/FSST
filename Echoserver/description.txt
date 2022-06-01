@@ -1,0 +1,14 @@
+Echoserver is an application which is listening
+to PORT 5000 of the local machine.
+
+With "nc localhost 5000" in a sepperate bash
+you can send messages to the application.
+
+The app will call when a connection is made
+
+When you type something in the other bash you
+will get the message and the mirrored message
+in the application
+
+When the connection is lost it will also
+send a message.
